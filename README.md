@@ -3,7 +3,6 @@
 Welcome to my **C++ Learning Repository**.
 
 This repository contains **step-by-step C++ programs** from **Beginner to Advanced**. Every program is simple, well-organized, and easy to understand. It is perfect for students, beginners, and anyone who wants to learn C++ programming.
-
 ## 📚 Topics Covered
 
 * Hello World
@@ -31,7 +30,6 @@ This repository contains **step-by-step C++ programs** from **Beginner to Advanc
 * Step-by-step learning
 * Beginner-friendly examples
 * Well-commented code
-* Copy-paste ready programs
 * Easy to understand
 
 ## 🎯 Who Is This Repository For?
